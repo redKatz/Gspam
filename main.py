@@ -12,7 +12,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-
+print("n\n\n\n\n\n\n\n\n\n")
 f = open('ascii.json', 'r')
 file_contents = f.read()
 print (bcolors.OKCYAN+file_contents+bcolors.ENDC)
