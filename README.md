@@ -13,7 +13,7 @@ To make this program work, you need to <mark>allow less secure apps to access yo
 # INSTALLATION
 
 	apt-get install python3-pip
-	git clone
+	git clone https://github.com/redKatz/Gspam
 	cd Gspam
 	pip3 install secure-smtplib
 	chmod +x setup.sh && ./setup.sh
