@@ -6,7 +6,7 @@ To make this program work, you need to <mark>**allow less secure apps to access 
 
 [Turn on 2FA:<br />](https://myaccount.google.com/security?hl=it)
 ![image alt text](https://i.ibb.co/1rJKhvy/Screenshot-2022-06-15-19-01-37.png)
-<br />Go on password for for the apps:<br />
+Go on password for for the apps:<br />
 ![image alt text](https://i.ibb.co/Pm274gV/Screenshot-2022-06-15-22-09-58.png)
 <br />Create app password and in the program replace your email password with this one:<br />
 ![image alt text](https://i.ibb.co/529XWKJ/download.png)
