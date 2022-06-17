@@ -15,7 +15,7 @@ class bcolors:
 print("n\n\n\n\n\n\n\n\n\n")
 f = open('ascii.json', 'r')
 file_contents = f.read()
-print (bcolors.OKCYAN+file_contents+bcolors.ENDC)
+print (bcolors.OKCYAN+file_contents+bcolors.ENDC + "\n\n by: redKatz")
 f.close()
 
 print(bcolors.WARNING+"\n\n𝙩𝙝𝙚 𝙖𝙪𝙩𝙝𝙤𝙧 𝙖𝙨𝙨𝙪𝙢𝙚𝙨 𝙣𝙤 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙮 𝙛𝙤𝙧 𝙝𝙤𝙬 𝙩𝙝𝙞𝙨 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙬𝙞𝙡𝙡 𝙗𝙚 𝙪𝙨𝙚𝙙\n=======================================================================\n\n"+bcolors.ENDC)
