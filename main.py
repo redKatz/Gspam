@@ -34,7 +34,7 @@ mail.login(em_spam, pass_em)
 for i in range(nume_spam):
 	mail.sendmail(em_per_spam, em_da_spam, contenuto)
 
-print("\n\n" + bcolors.OKGREEN + str(nume_spam) + " email have been sent" + bcolors.ENDC)
+print("\n\n" + bcolors.OKGREEN + str(nume_spam) + " emails have been sent" + bcolors.ENDC)
 
 
 mail.close()
